@@ -18,7 +18,7 @@ Our money transfer app makes it easy to manage your finances on the go. With our
 
 Login session will be 10 minutes and then the app will log out automatically.
 
-![ Money Transfer App ](https://github.com/mAbdullah821/javascript-projects/tree/master/Images/Money-Transfer-App.png)
+![ Money Transfer App ](/Images/Money-Transfer-App.png)
 
 ## Transfer Money
 
