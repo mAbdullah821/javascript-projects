@@ -1,11 +1,11 @@
 # Projects
 
-| Project name                 | Section link                                                  | Live preview   |
-| ---------------------------- | ------------------------------------------------------------- | -------------- |
-| Money Transfer App           | [Money Transfer App](#money-transfer-app)                     | -------------- |
-| Stylish JavaScript website   | [Stylish JavaScript website](#stylish-javascript-website)     | -------------- |
-| Dice Rolling Game            | [Dice Rolling Game](#dice-rolling-game)                       | -------------- |
-| Sports Activity Tracking App | [Sports Activity Tracking App](#sports-activity-tracking-app) | -------------- |
+| Project name                 | Section link                                                  | Live preview                                                 |
+| ---------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
+| Money Transfer App           | [Money Transfer App](#money-transfer-app)                     | [Link](https://money-transfer-app821.netlify.app/)           |
+| Stylish JavaScript website   | [Stylish JavaScript website](#stylish-javascript-website)     | [Link](https://stylish-javascript-website821.netlify.app/)   |
+| Dice Rolling Game            | [Dice Rolling Game](#dice-rolling-game)                       | [Link](https://dice-rolling-game821.netlify.app/)            |
+| Sports Activity Tracking App | [Sports Activity Tracking App](#sports-activity-tracking-app) | [Link](https://sports-activity-tracking-app821.netlify.app/) |
 
 # Money Transfer App
 
@@ -15,6 +15,8 @@
 | jd       | 2222     |
 
 Our money transfer app makes it easy to manage your finances on the go. With our app, you can easily transfer money to friends and family, request a loan, close your account, sort your transactions, and view the sum of all incoming and outgoing money as well as the interest earned.
+
+Login session will be 10 minutes and then the app will log out automatically.
 
 ## Transfer Money
 
