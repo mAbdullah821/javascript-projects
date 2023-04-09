@@ -18,7 +18,7 @@ Our money transfer app makes it easy to manage your finances on the go. With our
 
 Login session will be 10 minutes and then the app will log out automatically.
 
-![ Money Transfer App ](https://github.com/mAbdullah821/javascript-projects/tree/master/Images/Money-Transfer-App.png)
+![ Money Transfer App ](/Images/Money-Transfer-App.png)
 
 ## Transfer Money
 
@@ -56,7 +56,7 @@ With our money transfer app, managing your finances has never been easier. Downl
 
 Welcome to my stylish JavaScript website! This website is designed to showcase my skills in web development and JavaScript programming. Here are some of the features you'll find on my website:
 
-![ Stylish JavaScript Website ](https://github.com/mAbdullah821/javascript-projects/tree/master/Images/Stylish-JavaScript-website.png)
+![ Stylish JavaScript Website ](/Images/Stylish-JavaScript-website.png)
 
 ## Navigation Bar Cool Hover
 
@@ -90,7 +90,7 @@ I hope you enjoy exploring my website and seeing what I can do with JavaScript a
 
 Welcome to the Dice Rolling Game! This is a JavaScript game where the goal is to reach a score of 100 as fast as possible. The game is played by two players, and each player takes turns rolling a dice and accumulating points.
 
-![ Dice Rolling Game ](https://github.com/mAbdullah821/javascript-projects/tree/master/Images/Dice-Rolling-Game.png)
+![ Dice Rolling Game ](/Images/Dice-Rolling-Game.png)
 
 ## How to Play
 
@@ -122,7 +122,7 @@ I hope you enjoy playing this game and testing your luck with the dice rolls! Ha
 
 Welcome to the Sports Activity Tracking App! This is a JavaScript application that allows you to track your running or biking activities using your device's location. The app uses a third-party API to preview a map and your location in the map, and allows you to add activities and track your progress.
 
-![ Sports Activity Tracking App ](https://github.com/mAbdullah821/javascript-projects/tree/master/Images/Sports-Activity-Tracking-App.png)
+![ Sports Activity Tracking App ](/Images/Sports-Activity-Tracking-App.png)
 
 ## Features
 
