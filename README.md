@@ -9,6 +9,8 @@
 
 # Money Transfer App
 
+[Projects](#projects)
+
 | Username | Password |
 | -------- | -------- |
 | js       | 1111     |
@@ -54,6 +56,8 @@ With our money transfer app, managing your finances has never been easier. Downl
 
 # Stylish JavaScript Website
 
+[Projects](#projects)
+
 Welcome to my stylish JavaScript website! This website is designed to showcase my skills in web development and JavaScript programming. Here are some of the features you'll find on my website:
 
 ![ Stylish JavaScript Website ](/Images/Stylish-JavaScript-website.png)
@@ -88,6 +92,8 @@ I hope you enjoy exploring my website and seeing what I can do with JavaScript a
 
 # Dice Rolling Game
 
+[Projects](#projects)
+
 Welcome to the Dice Rolling Game! This is a JavaScript game where the goal is to reach a score of 100 as fast as possible. The game is played by two players, and each player takes turns rolling a dice and accumulating points.
 
 ![ Dice Rolling Game ](/Images/Dice-Rolling-Game.png)
@@ -119,6 +125,8 @@ I hope you enjoy playing this game and testing your luck with the dice rolls! Ha
 ---
 
 # Sports Activity Tracking App
+
+[Projects](#projects)
 
 Welcome to the Sports Activity Tracking App! This is a JavaScript application that allows you to track your running or biking activities using your device's location. The app uses a third-party API to preview a map and your location in the map, and allows you to add activities and track your progress.
 
