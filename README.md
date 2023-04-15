@@ -30,7 +30,7 @@ Our app allows you to transfer money to anyone with just a few taps. Whether you
 
 Need a little extra cash? Our app allows you to request a loan quickly and easily. Simply fill out the application and get approved in minutes.
 
-## Close Account {#section-1}
+## Close Account
 
 If you need to close your account for any reason, our app makes it simple. Just follow the steps in the app and your account will be closed in no time.
 
