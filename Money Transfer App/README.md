@@ -1,6 +1,6 @@
 # Money Transfer App
 
-[Projects](#projects)
+[The Other Projects](https://github.com/mAbdullah821/javascript-projects)
 
 | Username | Password |
 | -------- | -------- |
