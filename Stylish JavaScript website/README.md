@@ -4,7 +4,7 @@
 
 Welcome to my stylish JavaScript website! This website is designed to showcase my skills in web development and JavaScript programming. Here are some of the features you'll find on my website:
 
-<img src="./Images/Stylish-JavaScript-website.png" alt="Stylish JavaScript Website" width="480" height="1480"/>
+<img src="../Images/Stylish-JavaScript-website.png" alt="Stylish JavaScript Website" width="480" height="1480"/>
 
 ## Navigation Bar Cool Hover
 
