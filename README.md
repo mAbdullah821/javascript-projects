@@ -1,5 +1,7 @@
 # Projects
 
+For the live preview, please note that it may take some time to load as the server needs to run the project first. After clicking the link, wait for about 10 seconds before reloading the page. If the preview does not display, wait for another 10 seconds and try again. The preview should load after a few seconds of reloading.
+
 | Project name                 | Project link                                                  | Live preview                                                 |
 | ---------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------ |
 | Food Recipe Finder | [Food Recipe Finder](https://github.com/mAbdullah821/forkify-project) | [Link](https://forkify-mahmoud-abdullah.netlify.app/) |
